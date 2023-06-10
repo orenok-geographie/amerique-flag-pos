@@ -1,0 +1,350 @@
+[
+    {
+        "name": "Anguilla",
+        "capital": "The Valley",
+        "population": 13452,
+        "fr": "Anguilla",
+        "flag": "https://flagcdn.com/ai.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Coat_of_arms_of_Anguilla.svg/800px-Coat_of_arms_of_Anguilla.svg.png",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/d/df/Anguilla_in_United_Kingdom.svg"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "capital": "Saint John's",
+        "population": 97928,
+        "fr": "Antigua-et-Barbuda",
+        "flag": "https://flagcdn.com/ag.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Coat_of_arms_of_Antigua_and_Barbuda.svg/800px-Coat_of_arms_of_Antigua_and_Barbuda.svg.png",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/ATG_orthographic.svg/langfr-800px-ATG_orthographic.svg.png"
+    },
+    {
+        "name": "Argentina",
+        "capital": "Buenos Aires",
+        "population": 45376763,
+        "fr": "Argentine",
+        "flag": "https://flagcdn.com/ar.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Coat_of_arms_of_Argentina.svg/800px-Coat_of_arms_of_Argentina.svg.png",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/ARG_orthographic_%28%2Ball_claims%29.svg/langfr-800px-ARG_orthographic_%28%2Ball_claims%29.svg.png"
+    },
+    {
+        "name": "Aruba",
+        "capital": "Oranjestad",
+        "population": 106766,
+        "fr": "Aruba",
+        "flag": "https://flagcdn.com/aw.svg"
+    },
+    {
+        "name": "Bahamas",
+        "capital": "Nassau",
+        "population": 393248,
+        "fr": "Bahamas",
+        "flag": "https://flagcdn.com/bs.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coat_of_arms_of_the_Bahamas.svg/800px-Coat_of_arms_of_the_Bahamas.svg.png",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/LocationBahamas.svg/langfr-1920px-LocationBahamas.svg.png"
+    },
+    {
+        "name": "Barbados",
+        "capital": "Bridgetown",
+        "population": 287371,
+        "fr": "Barbade",
+        "flag": "https://flagcdn.com/bb.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Coat_of_arms_of_Barbados_%283%29.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/a/a1/BRB_orthographic.svg"
+    },
+    {
+        "name": "Belize",
+        "capital": "Belmopan",
+        "population": 397621,
+        "fr": "Belize",
+        "flag": "https://flagcdn.com/bz.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Coat_of_arms_of_Belize.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/4/43/BLZ_orthographic.svg"
+    },
+    {
+        "name": "Bermuda",
+        "capital": "Hamilton",
+        "population": 63903,
+        "fr": "Bermudes",
+        "flag": "https://flagcdn.com/bm.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/5/58/Coat_of_arms_of_Bermuda.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/f/ff/LocationBermuda.png"
+    },
+    {
+        "name": "Bolivia (Plurinational State of)",
+        "capital": "Sucre",
+        "population": 11673029,
+        "fr": "Bolivie",
+        "flag": "https://flagcdn.com/bo.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Escudo_de_Bolivia.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bolivia_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Brazil",
+        "capital": "Brasília",
+        "population": 212559409,
+        "fr": "Brésil",
+        "flag": "https://flagcdn.com/br.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Coat_of_arms_of_Brazil.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Brazil_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Canada",
+        "capital": "Ottawa",
+        "population": 38005238,
+        "fr": "Canada",
+        "flag": "https://flagcdn.com/ca.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Royal_Coat_of_Arms_of_Canada.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/6/67/CAN_orthographic.svg"
+    },
+    {
+        "name": "Chile",
+        "capital": "Santiago",
+        "population": 19116209,
+        "fr": "Chili",
+        "flag": "https://flagcdn.com/cl.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Coat_of_arms_of_Chile_%28c%29.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/c/cc/CHL_orthographic_%28%2Ball_claims%29.svg"
+    },
+    {
+        "name": "Colombia",
+        "capital": "Bogotá",
+        "population": 50882884,
+        "fr": "Colombie",
+        "flag": "https://flagcdn.com/co.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Coat_of_arms_of_Colombia.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/c/ca/COL_orthographic_%28San_Andr%C3%A9s_and_Providencia_special%29.svg"
+    },
+    {
+        "name": "Costa Rica",
+        "capital": "San José",
+        "population": 5094114,
+        "fr": "Costa Rica",
+        "flag": "https://flagcdn.com/cr.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/8/84/Coat_of_arms_of_Costa_Rica.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/8/89/CRI_orthographic.svg"
+    },
+    {
+        "name": "Cuba",
+        "capital": "Havana",
+        "population": 11326616,
+        "fr": "Cuba",
+        "flag": "https://flagcdn.com/cu.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/5/58/Coat_of_arms_of_Cuba.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/0/01/Cuba_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Curaçao",
+        "capital": "Willemstad",
+        "population": 155014,
+        "fr": "Curaçao",
+        "flag": "https://flagcdn.com/cw.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/3/33/Coat_of_arms_of_Cura%C3%A7ao.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Curacao_in_its_region.svg"
+    },
+    {
+        "name": "Dominica",
+        "capital": "Roseau",
+        "population": 71991,
+        "fr": "Dominique",
+        "flag": "https://flagcdn.com/dm.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/4/40/Coat_of_arms_of_Dominica.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/2/29/LocationDominica.png"
+    },
+    {
+        "name": "Dominican Republic",
+        "capital": "Santo Domingo",
+        "population": 10847904,
+        "fr": "République dominicaine",
+        "flag": "https://flagcdn.com/do.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/2/26/Coat_of_arms_of_the_Dominican_Republic.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/9/95/Dominican_Republic_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Ecuador",
+        "fr": "Equateur",
+        "capital": "Quito",
+        "population": 17643060,
+        "flag": "https://flagcdn.com/ec.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Coat_of_arms_of_Ecuador.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/e/e3/ECU_orthographic.svg"
+    },
+    {
+        "name": "El Salvador",
+        "capital": "San Salvador",
+        "population": 6486201,
+        "fr": "Salvador",
+        "flag": "https://flagcdn.com/sv.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Coat_of_arms_of_El_Salvador.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/e/e3/El_Salvador_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Grenada",
+        "capital": "St. George's",
+        "population": 112519,
+        "fr": "Grenade",
+        "flag": "https://flagcdn.com/gd.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/0/03/Coat_of_arms_of_Grenada.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Grenada_on_the_globe_%28Americas_centered%29.svg"
+    },
+    {
+        "name": "Guatemala",
+        "capital": "Guatemala City",
+        "population": 16858333,
+        "fr": "Guatemala",
+        "flag": "https://flagcdn.com/gt.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/1/15/Coat_of_arms_of_Guatemala.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/7/70/Guatemala_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Guyana",
+        "capital": "Georgetown",
+        "population": 786559,
+        "fr": "Guyana",
+        "flag": "https://flagcdn.com/gy.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/2/23/Coat_of_arms_of_Guyana.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Orthographic_projection_of_Guyana_with_Venezuela%27s_and_Suriname%27s_reclamations.svg"
+    },
+    {
+        "name": "Haiti",
+        "capital": "Port-au-Prince",
+        "population": 11402533,
+        "fr": "Haïti",
+        "flag": "https://flagcdn.com/ht.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/7/75/Coat_of_arms_of_Haiti.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Haiti_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Honduras",
+        "capital": "Tegucigalpa",
+        "population": 9904608,
+        "fr": "Honduras",
+        "flag": "https://flagcdn.com/hn.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/8/81/Coat_of_arms_of_Honduras.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Honduras_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Jamaica",
+        "capital": "Kingston",
+        "fr": "Jamaïque",
+        "flag": "https://flagcdn.com/jm.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/5/52/Coat_of_arms_of_Jamaica.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Jamaica_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Mexico",
+        "capital": "Mexico City",
+        "population": 128932753,
+        "fr": "Mexique",
+        "flag": "https://flagcdn.com/mx.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Coat_of_arms_of_Mexico.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/0/06/MEX_orthographic.svg"
+    },
+    {
+        "name": "Nicaragua",
+        "capital": "Managua",
+        "population": 6624554,
+        "fr": "Nicaragua",
+        "flag": "https://flagcdn.com/ni.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Coat_of_arms_of_Nicaragua.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/3/38/Nicaragua_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Panama",
+        "capital": "Panama City",
+        "population": 4314768,
+        "fr": "Panama",
+        "flag": "https://flagcdn.com/pa.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/3/30/Coat_of_arms_of_Panama.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Panama_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Paraguay",
+        "capital": "Asunción",
+        "population": 7132530,
+        "fr": "Paraguay",
+        "flag": "https://flagcdn.com/py.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/7/70/Coat_of_arms_of_Paraguay.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/8/80/Paraguay_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Peru",
+        "capital": "Lima",
+        "population": 32971846,
+        "fr": "Pérou",
+        "flag": "https://flagcdn.com/pe.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/4/49/Escudo_de_armas_del_Per%C3%BA.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/8/84/Peru_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "capital": "Basseterre",
+        "population": 53192,
+        "fr": "Saint-Christophe-et-Niévès",
+        "flag": "https://flagcdn.com/kn.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Coat_of_Arms_of_Saint_Kitts_and_Nevis.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/5/5d/KNA_orthographic.svg"
+    },
+    {
+        "name": "Saint Lucia",
+        "capital": "Castries",
+        "population": 183629,
+        "fr": "Saint-Lucie",
+        "flag": "https://flagcdn.com/lc.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Coat_of_arms_of_Saint_Lucia.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/9/97/Saint_Lucia_on_the_globe_%28Americas_centered%29.svg"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "capital": "Kingstown",
+        "population": 110947,
+        "fr": "Saint-Vincent-et-les-Grenadines",
+        "flag": "https://flagcdn.com/vc.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Coat_of_arms_of_Saint_Vincent_and_the_Grenadines.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/7/70/VCT_orthographic.svg"
+    },
+    {
+        "name": "Suriname",
+        "capital": "Paramaribo",
+        "population": 586634,
+        "fr": "Surinam",
+        "flag": "https://flagcdn.com/sr.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Coat_of_arms_of_Suriname.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/8/87/Suriname_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "capital": "Port of Spain",
+        "population": 1399491,
+        "fr": "Trinité et Tobago",
+        "flag": "https://flagcdn.com/tt.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Coat_of_arms_of_Trinidad_and_Tobago.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Trinidad_and_Tobago_%28orthographic_projection%29.svg"
+    },
+    {
+        "name": "United States of America",
+        "capital": "Washington, D.C.",
+        "population": 329484123,
+        "fr": "États-Unis",
+        "flag": "https://flagcdn.com/us.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Greater_coat_of_arms_of_the_United_States.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/d/dc/USA_orthographic.svg"
+    },
+    {
+        "name": "Uruguay",
+        "capital": "Montevideo",
+        "population": 3473727,
+        "fr": "Uruguay",
+        "flag": "https://flagcdn.com/uy.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/9/91/Coat_of_arms_of_Uruguay.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/4/43/URY_orthographic.svg"
+    },
+    {
+        "name": "Venezuela (Bolivarian Republic of)",
+        "capital": "Caracas",
+        "population": 28435943,
+        "fr": "Venezuela",
+        "flag": "https://flagcdn.com/ve.svg",
+        "embleme": "https://upload.wikimedia.org/wikipedia/commons/4/46/Coat_of_arms_of_Venezuela.svg",
+        "position": "https://upload.wikimedia.org/wikipedia/commons/5/5e/VEN_orthographic.svg"
+    }
+]
